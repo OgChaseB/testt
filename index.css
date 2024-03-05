@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+* {
+    margin: 0 auto;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    background-color: rgba(25, 25, 25, 1);
+    height: 119px;
+    width: 1440px;
+    display: flex;
+}
+
+.logo {
+    color: rgba(255, 255, 255, 1);
+    font-family: "DM Sans", sans-serif;
+    margin-left: 50px;
+    padding-top: 26px;
+    font-weight: 900;
+}
+
+.contacts-bykv {
+    color: rgba(255, 255, 255, 1);
+}
+
+.contacts-title {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    margin-top: 20px;
+    font-size: 17px;
+    list-style-type: none;
+    font-weight: 400;
+    font-family: "DM Sans", sans-serif;
+}
+
+.contacts-blue {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    color: rgba(17, 141, 168, 1);
+    font-weight: 400;
+}
+
+.contacts {
+    margin-top: 25px;
+    margin-right: 50px;
+}
+
+.img {
+    padding-top: 40px;
+    width: 650px;
+    height: 873px;
+    padding-left: 50px;
+}
+
+.main {
+    display: flex;
+    width: 1440px;
+    height: 913px;
+    background-color: rgba(25, 25, 25, 1);
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content {
+    width: 530px;
+    height: 610px;
+    margin-top: 132px;
+    margin-right: 150px;
+}
+
+.big {
+    display: flex;
+    font-family: "DM Sans", sans-serif;
+    font-size: 70px;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+}
+
+.big-title {
+    padding-top: 200px;
+}
+
+.lis {
+    color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    padding-top: 90px;
+    padding-right: 420px;
+}
+
+.icons-title {
+    display: flex;
+    padding-right: 263px;
+    padding-top: 16px;
+    gap: 17px;
+}
+
+.main-main {
+    width: 1440px;
+    height: 2088px;
+    background-color: rgba(25, 25, 25, 1);
+}
+
+.nach {
+    display: flex;
+    padding-top: 100px;
+    width: 1300px;
+    height: 99px;
+}
+
+.latest {
+    font-family: "DM Sans", sans-serif;
+    color: rgba(255, 255, 255, 1);
+    font-size: 64px;
+    font-weight: 400;
+    margin-left: 10px;
+    line-height: 75px;
+    width: 513px;
+}
+
+.button {
+    margin-top: 10px;
+    width: 178px;
+    height: 51px;
+    background-color: rgba(17, 141, 168, 1);
+    border-radius: 6px;
+    color: rgba(255, 255, 255, 1);
+    font-family: "DM Sans", sans-serif;
+    font-size: 17px;
+    margin-right: 50px;
+}
+
+.block {
+    display: flex;
+    width: 1300px;
+    height: 545px;
+    background-color: black;
+    border-radius: 32px;
+    margin-top: 32px;
+}
+
+.images {
+    width: 389px;
+    height: 465px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.text {
+    width: 778px;
+    height: 465px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.button-gear {
+    width: 73px;
+    height: 27px;
+    background-color: rgba(25, 25, 25, 1);
+    border-radius: 6px;
+    font-family: "DM Sans", sans-serif;
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 3px;
+}
+
+.episode {
+    color: rgba(17, 141, 168, 1);
+    margin-left: 3px;
+    padding-top: 50px;
+    font-size: 17px;
+    font-family: "DM Sans", sans-serif;
+}
+
+.text-big {
+    color: rgba(255, 255, 255, 1);
+    font-size: 64px;
+    font-family: "DM Sans", sans-serif;
+    margin-top: 25px;
+    margin-left: 3px;
+    font-weight: 400;
+}
+
+.text-medium {
+    color: grey;
+    font-family: "DM Sans", sans-serif;
+    font-size: 22px;
+    margin-left: 3px;
+    padding-top: 10px;
+}
+
+.button-episode {
+    margin-top: 10px;
+    width: 208px;
+    height: 51px;
+    background-color: rgba(17, 141, 168, 1);
+    border-radius: 6px;
+    color: rgba(255, 255, 255, 1);
+    font-family: "DM Sans", sans-serif;
+    font-size: 18px;
+    margin-left: 3px;
+    margin-top: 30px;
+    font-weight: 400;
+}
+.button-tips {
+    width: 136px;
+    height: 27px;
+    background-color: rgba(25, 25, 25, 1);
+    border-radius: 6px;
+    font-family: "DM Sans", sans-serif;
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 3px;
+}
+.text-medium-episode {
+    color: grey;
+    font-family: "DM Sans", sans-serif;
+    font-size: 22px;
+    margin-left: 3px;
+    padding-top: 35px;
+}
+.text-medium-doub {
+    color: grey;
+    font-family: "DM Sans", sans-serif;
+    font-size: 22px;
+    margin-left: 3px;
+    padding-top: 35px;
+}
