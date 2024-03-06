@@ -239,3 +239,15 @@ header {
     margin-left: 3px;
     padding-top: 35px;
 }
+.last-main {
+    width: 1440px;
+    height: 943px;
+    background-color:rgba(25, 25, 25, 1) ;
+    display: flex;
+}
+.nav {
+    margin-top: 250px;
+}
+.meta {
+    margin-top: 100px;
+}
