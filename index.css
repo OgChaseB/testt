@@ -247,7 +247,32 @@ header {
 }
 .nav {
     margin-top: 250px;
+    width: 590px;
+    height: 448px;
 }
 .meta {
     margin-top: 100px;
+}
+.meet {
+    color: rgba(17, 141, 168, 1);
+    font-family: "DM Sans", sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.jacob {
+    font-family: "DM Sans", sans-serif;
+    font-size: 65px;
+    color: rgba(255, 255, 255, 1);
+}
+.txt {
+    font-family: "DM Sans", sans-serif;
+    color: grey;
+    font-size: 22px;
+    margin-top: 28px;
+}
+.txt-doub {
+    font-family: "DM Sans", sans-serif;
+    color: grey;
+    font-size: 22px;
+    margin-top: 33px;
 }
